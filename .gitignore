@@ -1,0 +1,31 @@
+# Ignore all .env files
+.env
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore Python compiled files
+*.pyc
+
+# Ignore directories created by virtual environments
+env/
+venv/
+ENV/
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore database files
+*.sqlite3
+
+# Ignore specific personal scripts or directories
+personal_script.py
+config/local/
+
+# Ignore output files or personal notes
+output/
+notes.txt
+
